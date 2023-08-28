@@ -3,7 +3,7 @@ import { Index } from "./Components";
 function App() {
   return (
     <div>
-      <Index />
+      <Index/>
     </div>
   );
 }

@@ -231,5 +231,71 @@
             ]
         }
       }
+    },    
+    {
+        "book": {
+            "title": "El economista camuflado",
+            "pages": 288,
+            "genre": "Economía",
+            "cover": "https://i.pinimg.com/originals/15/c1/ec/15c1ec46e2771c51413fbe112e3244e1.jpg",
+            "synopsis": "Un enfoque práctico y accesible a los conceptos básicos de la economía.",
+            "year": 2005,
+            "ISBN": "978-8490327244",
+            "author": {
+                "name": "Tim Harford",
+                "otherBooks": [
+                    "El economista camuflado ataca de nuevo",
+                    "Adapt: Why Success Always Starts with Failure"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "IT",
+            "pages": 1138,
+            "genre": "Terror",
+            "cover": "https://m.media-amazon.com/images/P/B07H72GFW2.01._SCLZZZZZZZ_SX500_.jpg",
+            "synopsis": "Un grupo de niños se enfrenta a una entidad maligna que emerge cada 27 años en su ciudad natal.",
+            "year": 1986,
+            "ISBN": "978-0451169518",
+            "author": {
+                "name": "Stephen King",
+                "otherBooks": [
+                    "El resplandor",
+                    "Cementerio de animales"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "El Exorcista",
+            "pages": 400,
+            "genre": "Terror",
+            "cover": "https://m.media-amazon.com/images/I/71gnmyiJGnL._AC_UF1000,1000_QL80_.jpg",
+            "synopsis": "Una niña es poseída por un ente demoníaco y dos sacerdotes luchan por liberarla.",
+            "year": 1971,
+            "ISBN": "978-0061007224",
+            "author": {
+                "name": "William Peter Blatty",
+                "otherBooks": []
+            }
+        }
+    }, 
+    {
+        "book": {
+            "title": "El Capital",
+            "pages": 1104,
+            "genre": "Economía",
+            "cover": "https://imagessl0.casadellibro.com/a/l/t5/50/9788445907450.jpg",
+            "synopsis": "Una crítica de la economía política y un análisis del sistema capitalista.",
+            "year": 1867,
+            "ISBN": "978-0717800416",
+            "author": {
+                "name": "Karl Marx",
+                "otherBooks": []
+            }
+        }
     }
   ]}
